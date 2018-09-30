@@ -1,0 +1,2 @@
+model_checkpoint_path: "maddpg_tertiary_ratioreward"
+all_model_checkpoint_paths: "maddpg_tertiary_ratioreward"
